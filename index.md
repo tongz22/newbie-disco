@@ -2,4 +2,4 @@
 title: "Newbie Disco"
 ---
 
-this is my first commit
+from 0 to 0.
